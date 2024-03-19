@@ -1,0 +1,30 @@
+{
+  "stagiaires": [
+    {
+      "name": "khalid",
+      "telephone": "0611233414",
+      "filiere": "develppement digital",
+      "id": "7f9e"
+    },
+    {
+      "id": "14d5",
+      "name": "ayoub",
+      "telephone": "0688577448",
+      "filiere": "developpement digital"
+    }
+  ],
+  "absences": [
+    {
+      "date_absence": "2:30-3:30",
+      "jour_absence": "05-11-2015",
+      "id_stgr": "14d5",
+      "id": "a9d1"
+    },
+    {
+      "date_absence": "2-5",
+      "jour_absence": "02-03-2021",
+      "id_stgr": "e869",
+      "id": "bf53"
+    }
+  ]
+}
